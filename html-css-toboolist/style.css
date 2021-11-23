@@ -1,0 +1,96 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color:#F6F8F9 ;
+    font-weight: 600;
+}
+
+.titolo{
+     font-size: 40px;
+     font-weight: 700;
+     
+}
+
+.container-header{
+    display: inline-block;
+    margin-left: 15%;
+    margin-bottom: 50px;
+}
+
+.container-all{
+    border-radius: 5%;
+    background-color: white;
+    width: 70%;
+    margin: auto;
+}
+
+.cbottone{
+margin-bottom: 30px;
+border-radius: 10%;
+}
+
+.bottone1 {
+border-radius: 10%;
+padding: 5px;
+}
+
+.bblu {
+background-color: rgb(7, 112, 177);
+color: white;
+border-color: rgb(7, 112, 177);
+}
+
+.bbianco{
+background-color: white;
+color: rgb(116, 114, 114);
+border-color: #eaecec ;
+}
+
+.tasknuova {
+padding: 10px;
+}
+
+.stick{
+    border-radius: 15%;
+    color: white;
+    padding: 5px;
+}
+
+.descript{
+    display: inline-block;
+    padding-top: 20px;
+}
+
+.blue{
+    background-color: rgb(128, 201, 247);
+}
+
+.purple{
+    background-color: rgb(109, 2, 109);
+}
+
+.dark-green{
+    background-color: rgb(0, 167, 0);
+}
+
+.orange{
+    background-color: rgb(255, 176, 30);
+}
+
+.magenta{
+    background-color: rgb(250, 26, 250);
+}
+
+.green{
+    background-color: rgb(179, 253, 67);
+}
+
+.spunta-true{
+ color: rgb(2, 158, 2);
+ border-radius: 50%;
+ border-color: 50%;
+}
+
+
+.spunta-false{
+    color:rgb(250, 51, 51)
+}
